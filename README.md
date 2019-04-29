@@ -19,9 +19,33 @@ a package.json is created
 ![](twilio.png)
 
 
-
-
->To be able to use it we must register on their website
+# 2 Register on your page
+>In order to use it, we must register on your website and add your phone number to be able to send messages
 
 >Enter the following link :arrow_right:  https://www.twilio.com/
+
+
+![](page.png)
+
+
+# 3 Welcome message
+> click on the button Yes to enter code
+
+![](welcome.png)
+
+
+# 4 Select the option
+> click on the option Node.js, this is the one that we are going to use
+
+![](lenguage.png)
+
+
+# 5 What is your goal
+> How are we learning to click on the explore button
+
+![](explore.png)
+
+
+
+
 
