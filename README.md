@@ -54,5 +54,15 @@ a package.json is created
 
 ![](dash.png)
 
+# 7 click on button get a free number
+
+
+![](get.png)
+
+### Results in the following pop-up window
+
+![](modal.png)
+
+
 
 
