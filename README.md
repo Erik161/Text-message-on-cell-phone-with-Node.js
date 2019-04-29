@@ -45,7 +45,14 @@ a package.json is created
 
 ![](explore.png)
 
+# 6 Choose service
+> Twilio has several services, we chose the option to send and receive sms
 
+![](services.png)
+
+### You will already have access to your control panel
+
+![](dash.png)
 
 
 
