@@ -61,8 +61,9 @@ a package.json is created
 
 ### Results in the following pop-up window
 
+>You get a number where you can send and receive text messages to a phone.
+
+>click on button to choose this number.
+
 ![](modal.png)
-
-
-
 
