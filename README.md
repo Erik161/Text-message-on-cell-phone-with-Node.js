@@ -1,5 +1,5 @@
 # Text-message-on-cell-phone-with-Node.js
-Send text messages to mobile user devices using Twilio as a Web Service.
+:star2: Send text messages to mobile user devices using Twilio as a Web Service.
 
 
 # 1 enter the following command in your console
