@@ -6,6 +6,8 @@
 
 a package.json is created
 
+
+
 `$ npm init -y`
 
 ![](npminit.png)
